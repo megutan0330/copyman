@@ -446,7 +446,7 @@ VisualEffect:
       m_Array: []
     m_Vector4f:
       m_Array:
-      - m_Value: {x: 3.408804, y: 4.48005, z: 1.7920198, w: 0}
+      - m_Value: {x: 4, y: 4, z: 4, w: 0}
         m_Name: Color
         m_Overridden: 1
     m_Uint:
@@ -1039,7 +1039,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1460146298}
-  - component: {fileID: 1460146297}
   - component: {fileID: 1460146296}
   m_Layer: 0
   m_Name: Global Volume
@@ -1065,23 +1064,6 @@ MonoBehaviour:
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: f9afa437d4430bf48829e37056ff89b5, type: 2}
---- !u!114 &1460146297
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1460146295}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IsGlobal: 1
-  priority: 0
-  blendDistance: 0
-  weight: 1
-  sharedProfile: {fileID: 0}
 --- !u!4 &1460146298
 Transform:
   m_ObjectHideFlags: 0
