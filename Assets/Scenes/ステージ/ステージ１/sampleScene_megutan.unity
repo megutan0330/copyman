@@ -2298,6 +2298,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VendingMacine
       objectReference: {fileID: 0}
+    - target: {fileID: 2087699508118419249, guid: a4edd49c49bf09b4d9c0a05980d438b0, type: 3}
+      propertyPath: m_TagString
+      value: Cancopy
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a4edd49c49bf09b4d9c0a05980d438b0, type: 3}
 --- !u!1001 &3431657637884654326
